@@ -6,6 +6,7 @@ public class Employees {
 		EmpTax e = new EmpTax();
 		double t=e.tax(26000);
 		System.out.println("Employee Tax : " + t);
+		
 		// TODO Auto-generated method stub
 
 	}
