@@ -9,6 +9,7 @@ import git.com.EmpTax;
 			double t=e.tax(26000);
 			System.out.println("Employee Tax : " + t);
 			System.out.println();
+			System.out.println();
 			
 
 }
